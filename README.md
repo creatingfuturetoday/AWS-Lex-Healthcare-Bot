@@ -25,7 +25,7 @@ Amazon Web Services (AWS) is the world's most comprehensive and broadly adopted 
 
 ### What is the motivation behind the project ?
 
-This project was created while doing an intership at _DCM InfoTech_. The chatbot was created in order to provide medical services to people sitting at home in these troubling times and help them find a doctor suitable to their requirenments and book an appointment using the chatbot.
+The chatbot was created in order to provide medical services to people sitting at home in these troubling times and help them find a doctor suitable to their requirenments and book an appointment using the chatbot.
 
 ### How do all the services work together ?
 
